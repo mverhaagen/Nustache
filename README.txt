@@ -57,6 +57,6 @@ Syntax:
     templates defined in outer sections which override
     external templates.
 
-## Change Log:
+Change Log:
 
 03/28/2013  MVerhaagen   Added static Nustache.Core.Render.DataSetToString(templatePath, dataSet)
