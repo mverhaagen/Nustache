@@ -1,4 +1,9 @@
 ﻿using System.IO;
+using System.Data;
+using System.Xml;
+using System.Web.Script.Serialization;
+using System.Collections.Generic;
+using Newtonsoft.Json;
 
 namespace Nustache.Core
 {
@@ -22,6 +27,18 @@ namespace Nustache.Core
             var template = File.ReadAllText(templatePath);
             var templateLocator = GetTemplateLocator(templatePath);
             return StringToString(template, data, templateLocator.GetTemplate);
+        }
+
+        public static string DataSetToString(string templatePath, DataSet dataSet)
+        {
+            XmlDocument doc = new XmlDocument();
+            doc.LoadXml(dataSet.GetXml());
+            string jsonText = JsonConvert.SerializeObject(doc);
+
+            var serializer = new JavaScriptSerializer();
+            object data = serializer.Deserialize<IDictionary<string, object>>(jsonText);
+
+            return FileToString(templatePath, data);
         }
 
         public static void StringToFile(string template, object data, string outputPath)

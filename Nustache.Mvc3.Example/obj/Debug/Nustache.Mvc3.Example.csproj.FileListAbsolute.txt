@@ -1,0 +1,11 @@
+H:\sandbox\Nustache\Nustache.Mvc3.Example\bin\Nustache.Mvc3.Example.dll
+H:\sandbox\Nustache\Nustache.Mvc3.Example\bin\Nustache.Mvc3.Example.pdb
+H:\sandbox\Nustache\Nustache.Mvc3.Example\bin\Nustache.Core.dll
+H:\sandbox\Nustache\Nustache.Mvc3.Example\bin\Nustache.Mvc3.dll
+H:\sandbox\Nustache\Nustache.Mvc3.Example\bin\Newtonsoft.Json.dll
+H:\sandbox\Nustache\Nustache.Mvc3.Example\bin\Nustache.Core.pdb
+H:\sandbox\Nustache\Nustache.Mvc3.Example\bin\Nustache.Mvc3.pdb
+H:\sandbox\Nustache\Nustache.Mvc3.Example\bin\Newtonsoft.Json.xml
+H:\sandbox\Nustache\Nustache.Mvc3.Example\obj\Debug\ResolveAssemblyReference.cache
+H:\sandbox\Nustache\Nustache.Mvc3.Example\obj\Debug\Nustache.Mvc3.Example.dll
+H:\sandbox\Nustache\Nustache.Mvc3.Example\obj\Debug\Nustache.Mvc3.Example.pdb

@@ -1,0 +1,13 @@
+H:\sandbox\Nustache\nustache\bin\Debug\test.xml
+H:\sandbox\Nustache\nustache\bin\Debug\test-include.nustache
+H:\sandbox\Nustache\nustache\bin\Debug\test.json
+H:\sandbox\Nustache\nustache\bin\Debug\test.nustache
+H:\sandbox\Nustache\nustache\bin\Debug\nustache.exe
+H:\sandbox\Nustache\nustache\bin\Debug\nustache.pdb
+H:\sandbox\Nustache\nustache\bin\Debug\Nustache.Core.dll
+H:\sandbox\Nustache\nustache\bin\Debug\Newtonsoft.Json.dll
+H:\sandbox\Nustache\nustache\bin\Debug\Nustache.Core.pdb
+H:\sandbox\Nustache\nustache\bin\Debug\Newtonsoft.Json.xml
+H:\sandbox\Nustache\nustache\obj\Debug\ResolveAssemblyReference.cache
+H:\sandbox\Nustache\nustache\obj\Debug\nustache.exe
+H:\sandbox\Nustache\nustache\obj\Debug\nustache.pdb

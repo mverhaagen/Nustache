@@ -1,0 +1,7 @@
+H:\sandbox\Nustache\Nustache.Core\bin\Debug\Nustache.Core.dll
+H:\sandbox\Nustache\Nustache.Core\bin\Debug\Nustache.Core.pdb
+H:\sandbox\Nustache\Nustache.Core\bin\Debug\Newtonsoft.Json.dll
+H:\sandbox\Nustache\Nustache.Core\bin\Debug\Newtonsoft.Json.xml
+H:\sandbox\Nustache\Nustache.Core\obj\Debug\ResolveAssemblyReference.cache
+H:\sandbox\Nustache\Nustache.Core\obj\Debug\Nustache.Core.dll
+H:\sandbox\Nustache\Nustache.Core\obj\Debug\Nustache.Core.pdb

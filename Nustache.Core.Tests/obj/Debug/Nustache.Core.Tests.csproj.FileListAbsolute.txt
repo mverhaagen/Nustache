@@ -1,0 +1,14 @@
+H:\sandbox\Nustache\Nustache.Core.Tests\bin\Debug\Nustache.Core.Tests.dll
+H:\sandbox\Nustache\Nustache.Core.Tests\bin\Debug\Nustache.Core.Tests.pdb
+H:\sandbox\Nustache\Nustache.Core.Tests\bin\Debug\Moq.dll
+H:\sandbox\Nustache\Nustache.Core.Tests\bin\Debug\nunit.framework.dll
+H:\sandbox\Nustache\Nustache.Core.Tests\bin\Debug\Nustache.Core.dll
+H:\sandbox\Nustache\Nustache.Core.Tests\bin\Debug\Newtonsoft.Json.dll
+H:\sandbox\Nustache\Nustache.Core.Tests\bin\Debug\Nustache.Core.pdb
+H:\sandbox\Nustache\Nustache.Core.Tests\bin\Debug\Moq.pdb
+H:\sandbox\Nustache\Nustache.Core.Tests\bin\Debug\Moq.xml
+H:\sandbox\Nustache\Nustache.Core.Tests\bin\Debug\nunit.framework.xml
+H:\sandbox\Nustache\Nustache.Core.Tests\bin\Debug\Newtonsoft.Json.xml
+H:\sandbox\Nustache\Nustache.Core.Tests\obj\Debug\ResolveAssemblyReference.cache
+H:\sandbox\Nustache\Nustache.Core.Tests\obj\Debug\Nustache.Core.Tests.dll
+H:\sandbox\Nustache\Nustache.Core.Tests\obj\Debug\Nustache.Core.Tests.pdb
